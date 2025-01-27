@@ -24,7 +24,7 @@ A comprehensive web application for managing and exploring dietary supplements i
 
 1. Clone the repository
 ```sh
-git clone <repository-url>
+git clone https://github.com/medevs/supp-directory
 cd suppliments-directory
 ```
 
